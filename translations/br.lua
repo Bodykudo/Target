@@ -1,0 +1,75 @@
+translations.br={
+    new="<b><BV>The Shop</BV></b> <VP>has been added!</VP>",
+    ready="<J>You're the next target, Get Ready!</J>",
+    discord="Não se esqueça de entrar em nosso Servidor do Discord oficial:",
+    disabled="Desativado",
+    enabled="Ativado",
+    quests={
+        global="Become the <FC>#%s</FC> in the global leaderboard",
+        win="Vença <VP>%s</VP> / <VP>%s</VP> partidas.",
+        winMouse="Vença <VP>%s</VP> / <VP>%s</VP> partidas como um  <VP>rato</VP>.",
+        winTarget="Vença <VP>%s</VP> / <VP>%s</VP> partidas como um <VP>alvo</VP>.",
+        kill="Mate <VP>%s</VP> / <VP>%s</VP> alvos.",
+        play="Jogue <VP>%s</VP> / <VP>%s</VP> partidas."
+    },
+    leaderRoom="Sala",
+    leaderGlobal="Global",
+    toSave="Devem haver pelo menos  5 jogadores na sala para que os dados sejam salvos!",
+    buttons={
+        shop="Shop",
+        profile="Perfil",
+        help="Ajuda",
+        rank="Classificação"
+    },
+    menu="Menu",
+    lgs="Os idiomas disponíveis são",
+    next="Próximo",
+    pre="Anterior",
+    help={
+        "<p align='center'><font size='30' face='Soopafresh'><VP>#Target</VP></font>\n\n<p align='left'><font size='12'>Bem-vindo a <b><VP>#Target</VP></b>, neste jogo o seu objetivo é pegar o <b><VP>alvo</VP></b>, para isso você tem de <b><VP>pressionar</VP></b> a <b><VP>Barra de Espaços</VP></b> quando estiver perto dele para o <b><VP>Matar</VP></b>, use os botões <b><VP>C</VP></b>,<b><VP>V</VP></b> quando você é o <b><VP>alvo</VP></b> para ganhar <b><VP>poderes</VP></b> para escapar, o <b><VP>alvo</VP></b> tem de sobreviver por <b><VP>20 Segundos</VP></b>, caso sobreviva, <b><VP>ganhará</VP></b> e os restantes ratos irão morrer",
+        "<p align='center'><font size='30' face='Soopafresh'><VP>Comandos</VP></font>\n\n<p align='left'><font size='12'><b><VP>!help</VP></b> ou <b><VP>H</VP></b> - Exibe mais informação sobre o jogo.\n<b><VP>!shop</VP></b> or <b><VP>O</VP></b> - Displays the shop.\n<b><VP>!leaderboard</VP></b> ou <b><VP>L</VP></b> - Exibe a classificação da sala\n<b><VP>!profile </VP></b>[<b>Name#0000</b>] ou <b><VP>P</VP></b>  - Exibe o perfil, seu ou de alguém.\n<b><VP>!lang</VP></b>  [<b><a href='event:langs'><BV>XX</BV></a></b>] - Altera o idioma do module",
+        "<p align='center'><font size='30' face='Soopafresh'><VP>Créditos</VP></font>\n<p align='left'><font size='12'>\nEste jogo foi desenvolvido por <BV><b>Bodykudo</b></BV><V><font size='10'>#0000</font></V>\n<BV><b>Flindix</b></BV><V><font size='10'>#0095</font></V>, <BV><b>Argilita</b></BV><V><font size='10'>#0000</font></V> - Artist\n<BV><b>Sebafrancuz</b></BV><V><font size='10'>#0000</font></V>, <BV><b>Turkitutu</b></BV><V><font size='10'>#0000</font></V></V> - Com a ajuda de alguns códigos\n<BV><b>Flindix</b></BV><V><font size='10'>#0095</font></V>, <BV><b>Argilita</b></BV><V><font size='10'>#0000</font></V> - BR Tradução\n<BV><b>Uvfn</b></BV><V><font size='10'>#0000</font></V>, <BV><b>Ju_ven</b></BV><V><font size='10'>#0000</font></V>, <BV><b>Syc</b></BV><V><font size='10'>#1270</font></V>, <BV><b>Blank</b></BV><V><font size='10'>#3495</font></V> - Ajuda com ideias para o module"
+    },
+    name="Nome",
+    commu="Comunidade",
+    winsB="Vitórias",
+    rounds="Partidas Jogadas",
+    wins="Vitórias",
+    winsMouse="Vitórias enquanto rato",
+    winsTarget="Vitórias enquanto alvo",
+    killedTargets="Alvos abatidos",
+    close="Close",
+    welcome="<VP>Bem-vindo a<BV><b>#Target</b></BV>, o seu objetivo é pegar o <BV><b>alvo</b></BV>, pressione a <BV><b>Barra de Espaços</b></BV> quando estiver perto dele para o matar!</VP>",
+    target="<ROSE>Agora você é o alvo, fuja dos assassinos</ROSE>",
+    isTarget="%s <ROSE>é o alvo, pegue-o!</ROSE>",
+    won="%s <J>ganhou a rodada!</J>",
+    killed="<VP>Você abateu o alvo!<VP>",
+    hasKilled="%s <VP>abateu o alvo!</VP>",
+    skills={
+        speed="<Rose>Clique em %s para ativar o impulso de velocidade</ROSE>",
+        wind="<ROSE>Clique em %s para ativar vento </ROSE>",
+        jump="<ROSE>Clique em %s para ativar o pulo alto</ROSE>",
+        tp="<ROSE>Clique em <BV><b>B</b></BV> para fazer um ponto de controlo, clique em %s para se teleportar para ele</ROSE>",
+        spirit="<ROSE>Clique em %s para gerar um sp</ROSE>",
+        defense="<ROSE>Clique em %s para ficar no estado defensive</ROSE>",
+        gravity="<ROSE>Clique em %s para alterar a gravidade</ROSE>",
+        attack="<ROSE>Clique em %s para atirar um(a) %s</ROSE>",
+        stop="<ROSE>Clique em %s para parar o movimento dos jogadores</ROSE>",
+        dark="<ROSE>Clique em %s para ativar o modo noite</ROSE>",
+        rain="<ROSE>Click at %s to make it rain</ROSE>",
+        link="<ROSE>Click at %s to link two mice together</ROSE>",
+        size="<ROSE>Click at %s to change a random player's size</ROSE>",
+        cheese="<ROSE>Click at %s to give cheese to a random player</VP>"
+    },
+    objects={
+        ball="Bola de praia",
+        arrow="Seta",
+        chicken="Galinha",
+        pufferfish="Baiacu",
+        snowball="Bola de neve",
+        apple="Maçã",
+        pumpkin="Abóbora",
+        box="Caixa"
+    }
+}
+translations.pt=translations.br

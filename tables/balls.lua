@@ -1,0 +1,21 @@
+artists={a="Argilita#0000"}
+balls={
+	--[[{img="165f371d5f9",req=1,type=1,text="global",sp=true},
+	{img="165f371bd47",req=2,type=1,text="global",sp=true},
+	{img="165f371ef7b",req=3,type=1,text="global",sp=true},]]
+	{img="1686d20d4de",req=50,type=2,text="win",artist=artists.a},
+	{img="1686d20b7a0",req=100,type=2,text="win",artist=artists.a},
+	{img="168866f7234",req=150,x=-16,y=-18,xs=12,ys=7,type=2,text="win",artist=artists.a},
+	{img="1686d209a49",req=30,type=3,text="winMouse",artist=artists.a},
+	{img="1686d205fbe",req=60,type=3,text="winMouse",artist=artists.a},
+	{img="1686d207cfb",req=100,type=3,text="winMouse",artist=artists.a},
+	{img="1686d20427e",req=30,x=-20,y=-20,xs=11,ys=5,type=4,text="winTarget",artist=artists.a},
+	{img="1686d2024d9",req=60,y=-17,ys=8,type=4,text="winTarget",artist=artists.a},
+	{img="168866fc9c8",req=100,x=-17,y=-14,xs=12,ys=9,type=4,text="winTarget",artist=artists.a},
+	{img="168866f8f51",req=80,x=-23,y=-18,xs=10,ys=7,type=5,text="kill",artist=artists.a},
+	{img="168866fac65",req=160,x=-22,y=-21,xs=11,ys=6,type=5,text="kill",artist=artists.a},
+	{img="168866fe6f3",req=250,x=-21,y=-21,xs=11,ys=6,type=5,text="kill",artist=artists.a},
+	--[[{img="",req=300,type=1,text="winTarget"},
+	{img="",req=300,type=5,text="winTarget"},
+	{img="",req=180,type=2,text="winTarget"},]]
+}
